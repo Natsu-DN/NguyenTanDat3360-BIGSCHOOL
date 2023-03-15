@@ -23,8 +23,14 @@ textarea {
     max-width: 280px;
 }
 
+.navbar-inverse {
+    background-color: orangered;
+    border-color: #00ff04;
+}
 .navbar-inverse .navbar-toggle:hover,
 .navbar-inverse .navbar-toggle:focus {
     background-color: #777;
     border-color: #fff
 }
+
+
